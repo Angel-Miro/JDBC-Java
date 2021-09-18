@@ -1,4 +1,4 @@
-# JavaJDBC
+# JDBC-Java
 
 Proyecto con maven para conectar a bd, en este ejemplo lo hacemos con MySQL;
 
